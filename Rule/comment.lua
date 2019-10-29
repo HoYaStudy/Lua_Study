@@ -8,3 +8,16 @@ This
   line
   comments.
 --]]
+
+--[==[
+--[=[
+--[[
+This
+  is
+  a
+  multiple
+  line
+  comments.
+--]]
+--]=]
+--]==]
